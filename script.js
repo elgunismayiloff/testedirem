@@ -157,11 +157,11 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
     document.getElementById('creatorChannelBtn').addEventListener('click', () => {
-        window.open('https://telegram.me/elgunismayiloff', '_blank');
+        window.open('https://telegram.me/', '_blank');
     });
 
     telegramChannelBtn.addEventListener('click', () => {
-        window.open('https://telegram.me/jasperazerbaijan', '_blank');
+        window.open('https://telegram.me/', '_blank');
     });
 
     const generateClientId = () => {
